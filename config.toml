@@ -1,0 +1,4 @@
+baseurl = "http://abc.infecte.fr/"
+languageCode = "fr"
+title = "Les papiers de la fermentation : Recettes"
+theme = "infecte"
