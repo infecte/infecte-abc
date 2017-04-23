@@ -27,7 +27,7 @@ Prévoir :
 
 - Des bouteilles bien lavées pouvant supporter de la pression
   - bouteille de bière à bouchon mécanique
-  - bouteille de soda
+  - bouteille d'eau gazeuse ou de soda
 - Un entonnoir
 - Une passoire
 
